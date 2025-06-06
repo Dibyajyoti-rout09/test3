@@ -8,8 +8,14 @@ public class PsaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PsaApplication.class, args);
-char k='c';
-String m="hii psa";
+                int x=20;
+		System.out.println(x);
+                char k='c';
+                String m="hii psa";
+
+		
+		
+>>>>>>> b97c58c749fd6cf965efd66ff39cc1c9cc9a18dc
 	}
 
 }
